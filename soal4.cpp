@@ -24,15 +24,7 @@ public:
 /**
  * Misal kita ingin menambahkan jenis file pdf
  * class Pdf {
- * private:
- *   std::string filename;
- *   std::string content;
- *
- * public:
- *   Pdf(std::string filename) { this->filename = filename + ".pdf"; }
- *   void setContent(std::string content) { this->content = content; }
- *   std::string getFilename() { return this->filename; }
- *   std::string getContent() { return this->content; }
+ * ????????
  * };
  * Bagaimana cara menambahkan jenis file ini ke printer?
  */
